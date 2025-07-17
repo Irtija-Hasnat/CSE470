@@ -1,2 +1,2 @@
 # CSE470
-Safe Travels wweb app documentation
+Safe Travels web app documentation
